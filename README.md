@@ -1,7 +1,11 @@
 # flutter_firebase_practice
+This project benefits,
+1. LogIn screen use  Authentication
+2.Register screen
+3. Forget password to Reset password.
+4. show to data in main page
+   1. ![Screenshot_48](https://github.com/riShad241/Firebase_3_project/assets/106663161/54d25495-2468-4517-8c2e-dc8d6f10eb16) 2.![Screenshot_49](https://github.com/riShad241/Firebase_3_project/assets/106663161/7a998dc0-8d8f-41e1-9c61-6762b1936c3e) 3.![Screenshot_50](https://github.com/riShad241/Firebase_3_project/assets/106663161/857609c5-84bf-4ab4-80f6-c4ceb81b19ec)
+   4.![Screenshot_51](https://github.com/riShad241/Firebase_3_project/assets/106663161/556208cc-5a8a-4494-b7a3-fc9fb77a1deb)
 
 
-Cloud Firestore use kore project create 
-![Screenshot_41](https://github.com/riShad241/Assainment_14/assets/106663161/c2b6c4f2-03d2-4c48-8dde-b16d2b59938e)
-![Screenshot_43](https://github.com/riShad241/Assainment_14/assets/106663161/0ac0cf46-7860-4912-9adb-3dd49c52023b)
-![Screenshot_42](https://github.com/riShad241/Assainment_14/assets/106663161/906364ff-4531-45b2-8f62-503e3d8f2e00)
+
