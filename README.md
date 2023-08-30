@@ -1,16 +1,7 @@
 # flutter_firebase_practice
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cloud Firestore use kore project create 
+![Screenshot_41](https://github.com/riShad241/Assainment_14/assets/106663161/c2b6c4f2-03d2-4c48-8dde-b16d2b59938e)
+![Screenshot_43](https://github.com/riShad241/Assainment_14/assets/106663161/0ac0cf46-7860-4912-9adb-3dd49c52023b)
+![Screenshot_42](https://github.com/riShad241/Assainment_14/assets/106663161/906364ff-4531-45b2-8f62-503e3d8f2e00)
