@@ -1,5 +1,8 @@
 # flutter_firebase_practice
 This project benefits,
+
+amra api er maddm cara firebase er maddome log in register database data get kor te parbo//
+
 1. LogIn screen use  Authentication.
 
 2.Register screen.
